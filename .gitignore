@@ -1,0 +1,36 @@
+*.tar.gz
+
+*.exe
+src/befrank
+src/befrankd
+src/test_befrank
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.litecoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+befrank-qt
+BeFrankn-Qt.app
+
+# Unit-tests
+Makefile.test
+befrank-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

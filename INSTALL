@@ -1,0 +1,9 @@
+Building BeFrank
+
+See doc/readme-qt.rst for instructions on building BeFrank-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BeFrank.
+
+See doc/build-*.txt for instructions on building befrankd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BeFrank.
