@@ -1,0 +1,24 @@
+obj/netbase.o: netbase.cpp \
+  /Users/dtrog/Belgian-eFrank/befrank/src/netbase.h \
+  /Users/dtrog/Belgian-eFrank/befrank/src/serialize.h \
+  /Users/dtrog/Belgian-eFrank/befrank/src/allocators.h \
+  /Users/dtrog/Belgian-eFrank/befrank/src/version.h \
+  /Users/dtrog/Belgian-eFrank/befrank/src/clientversion.h \
+  /Users/dtrog/Belgian-eFrank/befrank/src/compat.h \
+  /Users/dtrog/Belgian-eFrank/befrank/src/util.h \
+  /Users/dtrog/Belgian-eFrank/befrank/src/uint256.h \
+  /Users/dtrog/Belgian-eFrank/befrank/src/sync.h \
+  /Users/dtrog/Belgian-eFrank/befrank/src/threadsafety.h \
+  /Users/dtrog/Belgian-eFrank/befrank/src/hash.h
+netbase.cpp :
+  /Users/dtrog/Belgian-eFrank/befrank/src/netbase.h :
+  /Users/dtrog/Belgian-eFrank/befrank/src/serialize.h :
+  /Users/dtrog/Belgian-eFrank/befrank/src/allocators.h :
+  /Users/dtrog/Belgian-eFrank/befrank/src/version.h :
+  /Users/dtrog/Belgian-eFrank/befrank/src/clientversion.h :
+  /Users/dtrog/Belgian-eFrank/befrank/src/compat.h :
+  /Users/dtrog/Belgian-eFrank/befrank/src/util.h :
+  /Users/dtrog/Belgian-eFrank/befrank/src/uint256.h :
+  /Users/dtrog/Belgian-eFrank/befrank/src/sync.h :
+  /Users/dtrog/Belgian-eFrank/befrank/src/threadsafety.h :
+  /Users/dtrog/Belgian-eFrank/befrank/src/hash.h :
