@@ -1,8 +1,0 @@
-obj/version.o: version.cpp \
-  /Users/dtrog/Belgian-eFrank/befrank/src/version.h \
-  /Users/dtrog/Belgian-eFrank/befrank/src/clientversion.h \
-  /Users/dtrog/Belgian-eFrank/befrank/src/obj/build.h
-version.cpp :
-  /Users/dtrog/Belgian-eFrank/befrank/src/version.h :
-  /Users/dtrog/Belgian-eFrank/befrank/src/clientversion.h :
-  /Users/dtrog/Belgian-eFrank/befrank/src/obj/build.h :
